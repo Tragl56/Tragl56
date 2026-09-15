@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:1e1b4b,70:4c1d95,100:be185d&height=210&section=header&text=Luiz%20Felipe%20Tragl&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=33&desc=Backend%20Developer%20%C2%B7%20Data%20%26%20AI%20Enthusiast&descAlignY=53&descSize=17" width="100%"/>
+<img src="https://raw.githubusercontent.com/Tragl56/Tragl56/main/assets/banner.svg" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=A78BFA&center=true&vCenter=true&width=640&lines=treinando+modelos%2C+buildando+produtos;toda+ideia+come%C3%A7a+num+notebook+Jupyter;Python+%2B+dados+%2B+estat%C3%ADstica+%2B+caf%C3%A9;git+commit+-m+%22mais+um+experimento%22" alt="Typing SVG" />
 
