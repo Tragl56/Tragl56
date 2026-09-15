@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="465" viewBox="0 0 600 465">
+  <defs>
+    <style>
+      .win { fill: #0d1117; }
+      .titlebar { fill: #161b22; }
+      .tab { fill: #21262d; }
+      .tabtext { font-family: 'Fira Code', Consolas, monospace; font-size: 12.5px; fill: #9aa4b2; }
+      .dot { }
+      text { dominant-baseline: alphabetic; }
+      .cursor { fill: #a78bfa; animation: blink 1s step-end infinite; }
+      @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+      .glow { animation: pulse 3s ease-in-out infinite; }
+      @keyframes pulse { 0%, 100% { opacity: 0.5; } 50% { opacity: 1; } }
+    </style>
+  </defs>
+
+  <rect class="win" width="600" height="465" rx="10"/>
+  <rect class="titlebar" width="600" height="40" rx="10"/>
+  <rect class="titlebar" x="0" y="20" width="600" height="20"/>
+
+  <circle class="dot glow" cx="24" cy="20" r="6" fill="#ff5f56"/>
+  <circle class="dot glow" cx="46" cy="20" r="6" fill="#ffbd2e"/>
+  <circle class="dot glow" cx="68" cy="20" r="6" fill="#27c93f"/>
+
+  <rect class="tab" x="100" y="10" width="90" height="30" rx="6"/>
+  <text x="116" y="29" class="tabtext">luiz.py</text>
+
+  <text x="24" y="70" font-family="Fira Code, Consolas, monospace" font-size="14.5"><tspan fill="#c678dd">class </tspan><tspan fill="#61afef">Luiz</tspan><tspan fill="#abb2bf">:</tspan></text>
+<text x="35" y="94" font-family="Fira Code, Consolas, monospace" font-size="14.5"><tspan fill="#5c6370">"""Backend Developer · Data &amp; AI Enthusiast"""</tspan></text>
+<text x="35" y="127.6" font-family="Fira Code, Consolas, monospace" font-size="14.5"><tspan fill="#e06c75">role</tspan><tspan fill="#abb2bf">      = </tspan><tspan fill="#98c379">"Backend Developer"</tspan></text>
+<text x="35" y="151.6" font-family="Fira Code, Consolas, monospace" font-size="14.5"><tspan fill="#e06c75">focus</tspan><tspan fill="#abb2bf">     = </tspan><tspan fill="#98c379">"Data &amp; Machine Learning"</tspan></text>
+<text x="35" y="175.6" font-family="Fira Code, Consolas, monospace" font-size="14.5"><tspan fill="#e06c75">stack</tspan><tspan fill="#abb2bf">     = [</tspan><tspan fill="#98c379">"Python"</tspan><tspan fill="#abb2bf">, </tspan><tspan fill="#98c379">"TypeScript"</tspan><tspan fill="#abb2bf">, </tspan><tspan fill="#98c379">"Java"</tspan><tspan fill="#abb2bf">,</tspan></text>
+<text x="46" y="199.6" font-family="Fira Code, Consolas, monospace" font-size="14.5"><tspan fill="#98c379">"C++"</tspan><tspan fill="#abb2bf">, </tspan><tspan fill="#98c379">"C#"</tspan><tspan fill="#abb2bf">]</tspan></text>
+<text x="35" y="223.6" font-family="Fira Code, Consolas, monospace" font-size="14.5"><tspan fill="#e06c75">repos</tspan><tspan fill="#abb2bf">     = </tspan><tspan fill="#d19a66">15</tspan></text>
+<text x="35" y="247.6" font-family="Fira Code, Consolas, monospace" font-size="14.5"><tspan fill="#e06c75">followers</tspan><tspan fill="#abb2bf"> = </tspan><tspan fill="#d19a66">8</tspan></text>
+<text x="35" y="271.6" font-family="Fira Code, Consolas, monospace" font-size="14.5"><tspan fill="#e06c75">since</tspan><tspan fill="#abb2bf">     = </tspan><tspan fill="#d19a66">2023</tspan></text>
+<text x="35" y="310.0" font-family="Fira Code, Consolas, monospace" font-size="14.5"><tspan fill="#c678dd">def </tspan><tspan fill="#61afef">status</tspan><tspan fill="#abb2bf">(</tspan><tspan fill="#e06c75">self</tspan><tspan fill="#abb2bf">):</tspan></text>
+<text x="46" y="334.0" font-family="Fira Code, Consolas, monospace" font-size="14.5"><tspan fill="#c678dd">return </tspan><tspan fill="#98c379">"training a model, shipping a feature 🚀"</tspan></text>
+<text x="24" y="374.8" font-family="Fira Code, Consolas, monospace" font-size="14.5"><tspan fill="#a78bfa">&gt;&gt;&gt; </tspan><tspan fill="#61afef">Luiz</tspan><tspan fill="#abb2bf">().</tspan><tspan fill="#61afef">status</tspan><tspan fill="#abb2bf">()</tspan></text>
+<text x="24" y="398.8" font-family="Fira Code, Consolas, monospace" font-size="14.5"><tspan fill="#5c6370">training a model, shipping a feature 🚀</tspan></text>
+<text x="24" y="437.20000000000005" font-family="Fira Code, Consolas, monospace" font-size="14.5"><tspan fill="#a78bfa">&gt; </tspan></text>
+
+  <rect x="40" y="425.20000000000005" width="9" height="15" class="cursor"/>
+</svg>

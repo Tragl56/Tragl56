@@ -118,12 +118,10 @@
 
 <br/>
 
-## 📈 Live Metrics
-
-<sub>gerado automaticamente por uma GitHub Action rodando no meu próprio repositório — sem depender de instância pública de terceiros</sub>
+## 📈 whoami
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tragl56/Tragl56/main/metrics.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Tragl56/Tragl56/main/assets/stats-card.svg" width="600"/>
 </p>
 
 <br/>
