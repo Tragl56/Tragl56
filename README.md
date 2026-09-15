@@ -1,41 +1,46 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2f,40:6a3093,100:e94584&height=220&section=header&text=Luiz%20Felipe%20Tragl&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=dev%20em%20forma%C3%A7%C3%A3o%20%C2%B7%20dados%20%2B%20c%C3%B3digo%20%2B%20cafe%C3%ADna&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1e1b4b,100:4c1d95&height=200&section=header&text=Luiz%20Felipe%20Tragl&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%C2%B7%20Data%20%26%20AI%20Enthusiast&descAlignY=55&descSize=17" width="100%"/>
 
-<a href="https://github.com/Tragl56">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=C792EA&center=true&vCenter=true&width=600&lines=sempre%20testando%20uma%20ideia%20nova;Python%2C%20dados%20e%20um%20pouco%20de%20caos;caf%C3%A9%2C%20c%C3%B3digo%20e%20muito%20debug;vibe%20coding%20em%20progresso..." alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=A78BFA&center=true&vCenter=true&width=620&lines=treinando+modelos%2C+buildando+produtos;toda+ideia+come%C3%A7a+num+notebook+Jupyter;Python+%2B+dados+%2B+estat%C3%ADstica+%2B+caf%C3%A9;git+commit+-m+%22mais+um+experimento%22" alt="Typing SVG" />
 
 </div>
 
 <br/>
 
-## 🧬 Sobre mim
+## `model_card.yaml`
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
-- 🐍 Curtindo Python, dados e Machine Learning no dia a dia
-- ⚙️ Transitando entre APIs, chatbots, automações e hardware (Arduino/IoT)
-- 🔭 No momento construindo o **FutSty**, um motor estatístico para futebol
-- 💬 Aberto a trocar ideia sobre dados, backend ou projeto novo
+```yaml
+luiz_felipe.dev:
+  role: "Backend Developer & Data/AI Enthusiast"
+  education: "Análise e Desenvolvimento de Sistemas"
+  core_stack: [Python, SQL, FastAPI, Pandas, scikit-learn]
+  also_speaks: [Java, TypeScript, C++, C#, Arduino/C]
+  interests: [Machine Learning, Estatística Aplicada, IoT, Automação]
+  now_building: "FutSty — motor de previsão esportiva (Poisson + Monte Carlo)"
+  status: "sempre treinando um modelo novo (ou um café) ☕"
+```
 
 <br/>
 
 ## 🧰 Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,react,nextjs,nodejs,csharp,postgres,arduino,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,fastapi,java,cpp,csharp,js,ts,react,nextjs,nodejs,arduino,git,github&theme=dark" />
 </div>
 
 <br/>
 
-## 🚀 Projetos em destaque
+## 🚀 Projetos
+
+### 🤖 Data & Machine Learning
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### ⚽ [FutSty](https://github.com/Tragl56/FutSty)
-Motor de previsão estatística para o futebol brasileiro — Poisson bivariado, correção Dixon-Coles, xPoints e simulação de Monte Carlo (10k rodadas).
+**[FutSty](https://github.com/Tragl56/FutSty)**
+Motor de previsão estatística para futebol — Poisson bivariado, correção Dixon-Coles, xPoints e simulação de Monte Carlo (10k rodadas).
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -44,28 +49,7 @@ Motor de previsão estatística para o futebol brasileiro — Poisson bivariado,
 </td>
 <td width="50%" valign="top">
 
-### 🔋 [SmartEnergy](https://github.com/Tragl56/SmartEnergy)
-Monitoramento de temperatura, umidade e movimento com sensores DHT22 e PIR, com automação de acionamento via microcontrolador.
-
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🛒 [EnterConnection](https://github.com/Tragl56/EnterConnection)
-Análise de dados de vendas de supermercado para identificar as empresas com melhor desempenho, com classificação automática e visualizações interativas.
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 🐋 [GS-020 · Blue Horizon](https://github.com/Tragl56/GS-020)
+**[GS-020 · Blue Horizon](https://github.com/Tragl56/GS-020)**
 Classificação de espécies marinhas como "em extinção" ou "não em extinção" a partir de imagens, usando visão computacional.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -76,7 +60,31 @@ Classificação de espécies marinhas como "em extinção" ou "não em extinçã
 <tr>
 <td width="50%" valign="top">
 
-### 🎮 [Loja_de_Jogos](https://github.com/Tragl56/Loja_de_Jogos)
+**[EnterConnection](https://github.com/Tragl56/EnterConnection)**
+Análise de dados de vendas de supermercado para identificar as empresas com melhor desempenho, com classificação automática e visualizações interativas.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+**[ML_Classificao](https://github.com/Tragl56/ML_Classificao)**
+Estudos e experimentos de classificação com Machine Learning.
+
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+### ⚙️ Backend & APIs
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**[Loja_de_Jogos](https://github.com/Tragl56/Loja_de_Jogos)**
 API REST para gestão de uma loja de jogos — cadastro, edição, exclusão e categorização de produtos.
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
@@ -84,13 +92,53 @@ API REST para gestão de uma loja de jogos — cadastro, edição, exclusão e c
 </td>
 <td width="50%" valign="top">
 
-### 🤝 [Chatbot_info_fome](https://github.com/Tragl56/Chatbot_info_fome)
+**[CashFlowPro](https://github.com/Tragl56/CashFlowPro)**
+Controle de fluxo de caixa.
+
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+### 💬 Chatbots & Automação
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**[Chatbot_info_fome](https://github.com/Tragl56/Chatbot_info_fome)**
 Chatbot construído com IBM Watson Assistant + Node-RED para tirar dúvidas sobre segurança alimentar.
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node-RED](https://img.shields.io/badge/-Node--RED-8F0000?style=flat-square&logo=nodered&logoColor=white)
 
 </td>
+<td width="50%" valign="top">
+
+**[Chatbot_Plano](https://github.com/Tragl56/Chatbot_Plano)**
+Chatbot para um plano de assinatura de bike.
+
+![Node-RED](https://img.shields.io/badge/-Node--RED-8F0000?style=flat-square&logo=nodered&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+### 🔌 IoT & Hardware
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**[SmartEnergy](https://github.com/Tragl56/SmartEnergy)**
+Monitoramento de temperatura, umidade e movimento com sensores DHT22 e PIR, com automação de acionamento via microcontrolador.
+
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+
+</td>
+<td width="50%" valign="top"></td>
 </tr>
 </table>
 
@@ -100,11 +148,8 @@ Chatbot construído com IBM Watson Assistant + Node-RED para tirar dúvidas sobr
 
 | Repositório | Stack | Nota |
 |---|---|---|
-| [Chatbot_Plano](https://github.com/Tragl56/Chatbot_Plano) | Node-RED | Chatbot para um plano de assinatura de bike |
 | [Projeto_Pandas](https://github.com/Tragl56/Projeto_Pandas) | Python · Jupyter | Exercícios de análise de dados |
-| [ML_Classificao](https://github.com/Tragl56/ML_Classificao) | Jupyter | Estudos de classificação com Machine Learning |
 | [loja_de_jogo_web](https://github.com/Tragl56/loja_de_jogo_web) | TypeScript · Next.js | Front-end de loja de jogos |
-| [CashFlowPro](https://github.com/Tragl56/CashFlowPro) | Java | Controle de fluxo de caixa |
 | [Mobile](https://github.com/Tragl56/Mobile) | TypeScript | Experimentos mobile |
 | [kit-comercial](https://github.com/Tragl56/kit-comercial) | 🚧 | Recém-criado, em construção |
 
@@ -112,12 +157,12 @@ Chatbot construído com IBM Watson Assistant + Node-RED para tirar dúvidas sobr
 
 <br/>
 
-## 📊 GitHub Analytics
+## 📌 Highlights
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tragl56&theme=radical&hide_border=true&show_icons=true&cache_seconds=3600" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tragl56&theme=radical&hide_border=true&layout=compact&cache_seconds=3600" />
-</div>
+- 🗂️ 16+ repositórios públicos, contribuindo desde 2023
+- 🧪 5 projetos de dados/estatística/ML em produção ou desenvolvimento
+- 🔭 Focado agora em modelagem estatística aplicada (FutSty)
+- ☕ Nº de xícaras de café: `undefined` (loop infinito)
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tragl56&theme=radical&hide_border=true" />
@@ -135,16 +180,8 @@ Chatbot construído com IBM Watson Assistant + Node-RED para tirar dúvidas sobr
 
 <br/>
 
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tragl56&theme=radical&column=5&row=2&no-frame=true&no-bg=true&margin-w=10" />
-</p>
-
-<br/>
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tragl56&style=flat&color=e94584&label=Visitas+no+perfil" alt="Número de visitantes no perfil" />
+  <img src="https://komarev.com/ghpvc/?username=Tragl56&style=flat&color=8b5cf6&label=Visitas+no+perfil" alt="Número de visitantes no perfil" />
   <br/>
-  <sub>✨ feito com café, muito debug e um pouco de vibe coding</sub>
+  <sub>✨ construído entre um treino de modelo e um commit</sub>
 </div>
