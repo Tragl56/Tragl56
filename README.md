@@ -12,6 +12,13 @@
 
 </div>
 
+<pre align="center">
+ _____ ___    _   ___ _    ___   __ 
+|_   _| _ \  /_\ / __| |  | __| / / 
+  | | |   / / _ \ (_ | |__|__ \/ _ \
+  |_| |_|_\/_/ \_\___|____|___/\___/
+</pre>
+
 <br/>
 
 ## 🧬 Model Card
@@ -79,21 +86,45 @@
 
 <br/>
 
-## 🧠 Skill Matrix
+## 🧠 Stack
 
-| | Nível |
-|---|---|
-| **Python** | 🟪🟪🟪🟪🟪🟪🟪🟪🟪⬜ |
-| **SQL / Pandas** | 🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜ |
-| **Machine Learning** | 🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜ |
-| **APIs REST / FastAPI** | 🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜ |
-| **Java** | 🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜ |
-| **IoT / Arduino** | 🟪🟪🟪🟪🟪⬜⬜⬜⬜⬜ |
-| **TypeScript / Node** | 🟪🟪🟪🟪🟪⬜⬜⬜⬜⬜ |
+<table width="100%">
+<tr><td align="center" valign="top" width="25%">
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgres,fastapi,java,cpp,csharp,js,ts,react,nextjs,nodejs,arduino,git,github&theme=dark" />
-</div>
+**Data & ML**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=python,postgres&theme=dark"/>
+
+</td><td align="center" valign="top" width="25%">
+
+**Backend**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,java,csharp&theme=dark"/>
+
+</td><td align="center" valign="top" width="25%">
+
+**Web**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs&theme=dark"/>
+
+</td><td align="center" valign="top" width="25%">
+
+**Hardware & Tools**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=cpp,arduino,git,github&theme=dark"/>
+
+</td></tr>
+</table>
+
+<br/>
+
+## 📈 Live Metrics
+
+<sub>gerado automaticamente por uma GitHub Action rodando no meu próprio repositório — sem depender de instância pública de terceiros</sub>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tragl56/Tragl56/main/metrics.svg" width="100%"/>
+</p>
 
 <br/>
 
