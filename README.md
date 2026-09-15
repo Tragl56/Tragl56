@@ -115,16 +115,12 @@ Chatbot construído com IBM Watson Assistant + Node-RED para tirar dúvidas sobr
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tragl56&theme=radical&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tragl56&theme=radical&hide_border=true&layout=compact&count_private=true&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tragl56&theme=radical&hide_border=true&show_icons=true&cache_seconds=3600" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tragl56&theme=radical&hide_border=true&layout=compact&cache_seconds=3600" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tragl56&theme=radical&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tragl56&theme=react-dark&hide_border=true&bg_color=0d1117&color=e94584&line=c792ea&point=ffffff" width="100%"/>
 </div>
 
 <br/>
@@ -142,7 +138,7 @@ Chatbot construído com IBM Watson Assistant + Node-RED para tirar dúvidas sobr
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tragl56&theme=radical&column=7&no-frame=true&no-bg=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Tragl56&theme=radical&column=5&row=2&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
 <br/>
